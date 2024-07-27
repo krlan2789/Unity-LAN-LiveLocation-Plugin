@@ -4,9 +4,7 @@
     "displayName": "Live Location",
     "description": "A plugin that allow unity (Android) to run a background service location",
     "unity": "2020.3",
-    "dependencies": {
-        "com.google.external-dependency-manager": "1.2.181"
-    },
+    "dependencies": {},
     "documentationUrl": "https://github.com/krlan2789/Unity-Background-Location/blob/main/README.md",
     "licensesUrl": "https://github.com/krlan2789/Unity-Background-Location/blob/main/LICENSE.md",
     "keywords": [
